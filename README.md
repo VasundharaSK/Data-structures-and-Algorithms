@@ -13,4 +13,6 @@ https://anubhavsinha98.medium.com/resources-to-master-data-structures-and-algori
 
 https://www.udemy.com/course/learning-data-structures-algorithms-in-python-from-scratch/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-aIp.II6F1vgAtwyhmEYbSQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
 
+https://medium.com/techie-delight/500-data-structures-and-algorithms-practice-problems-35afe8a1e222
+
 
