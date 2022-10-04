@@ -7,6 +7,8 @@ When we study data structure and algorithm, we are talking (and concern) about s
 
 Resources:
 
+https://docs.google.com/spreadsheets/d/1-wKcV99KtO91dXdPkwmXGTdtyxAfk1mbPXQg81R9sFE/edit#gid=0
+
 https://medium.com/omarelgabrys-blog/diving-into-data-structures-6bc71b2e8f92
 
 https://anubhavsinha98.medium.com/resources-to-master-data-structures-and-algorithms-24450dc6d52b
